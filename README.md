@@ -43,7 +43,6 @@ Feel free to ping/email me for business inquiries (alfiendhika@protonmail.com)
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 
 1.	Certified Application Security Practitioner (CAP)
 2.	Junior Penetration Tester (EJPT)
