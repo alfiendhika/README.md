@@ -1,8 +1,5 @@
-# README.md
-A brief explanation about me.
-
 # Hi there, Alfien here, nice to e-meet you. 
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/alfiendhika"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Greetings, thank you for taking the time to visit my profile. 
 
